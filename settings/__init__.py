@@ -1,0 +1,1 @@
+DB_URL = "mysql+aiomysql://wang:123456@localhost:3306/name_db?charset=utf8mb4"
