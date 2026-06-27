@@ -8,6 +8,7 @@ dependencies = [
     "aiomysql>=0.3.2",
     "alembic>=1.18.5",
     "fastapi>=0.138.1",
+    "fastapi-mail>=1.6.5",
     "pwdlib[argon2]>=0.3.0",
     "pydantic-settings>=2.14.2",
     "pyjwt>=2.13.0",

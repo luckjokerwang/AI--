@@ -1,0 +1,4 @@
+# GET http://localhost:8000/mail/test?email=1480623044@qq.com
+
+
+GET http://localhost:8000/auth/code?email=1480623044@qq.com
